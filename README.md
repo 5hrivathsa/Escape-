@@ -12,7 +12,7 @@ So go ahead and enjoy the game!
 
 Sprites and Sounds - These were taken online 
 
-#Install instructions
+# Install instructions:
 
 You will need the following prerequisites to play this game!
 
@@ -20,7 +20,7 @@ You will need the following prerequisites to play this game!
 
 2. Python libraries : pygame, tkinter, time, pillow ,turtle. These libraries aren't available by default. But you can download it using the "pip" commands
 
-Once this is done, extract the zip folder and make sure that all the contents of the zip file have been extracted into the same folder. Look out for the "escape.py" file. Click on this file to run it and play the game :)
+The game downloaded from : https://shri-874.itch.io/escape
 
 # Controls :
 
