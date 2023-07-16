@@ -26,5 +26,9 @@ Keyboard: arrow keys to move and jump
 
 Refer to the "Help" page inside the game to get detailed info.
 
+# Gameplay:
+
+Have a look at the game play here : https://drive.google.com/file/d/1JC8F1ZmRfSd_Uk4CpR27yLwfCQ0DLqVc/view?usp=sharing
+
 See you in the real world!
 
